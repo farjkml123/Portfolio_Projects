@@ -1,5 +1,5 @@
 /*
-Cleaning Data in SQl Queries
+Cleaning Data in SQL Queries
 */
 ---------------------------------------------------------------------
 
